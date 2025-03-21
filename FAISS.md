@@ -7,5 +7,5 @@
 56 bytes
 
 ## Searching Time
-0.0158 sec
+0.0071 sec
 
